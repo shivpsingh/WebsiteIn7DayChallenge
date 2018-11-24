@@ -1,0 +1,27 @@
+/****************************************
+
+-------------
+Default Font
+-------------
+
+Default Font   : font-family: 'Roboto Mono', monospace;
+
+--------------
+Color Schemes
+--------------
+
+Greenish Blue : #34c6d3 -- Buttons, Links, Lines, icons and Backgrounds
+Steel Grey    : #41464b -- Headings
+Blue Bayoux   : #64707b -- Paragraphs
+White         : #ffffff -- Text with Black Background
+Black         : #000000
+
+
+****************************************/
+
+body {
+    
+    text-align: center; /* Just for Day_0 */
+    font-family: 'Roboto Mono', monospace;
+
+}
