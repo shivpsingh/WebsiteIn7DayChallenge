@@ -1,5 +1,5 @@
 # ModernAndResponsiveWebsite
-*Creating a modern and responsive website
+*Creating a modern and responsive website*
 
 This is git repository to create a website considering all the modern techniques and coding styles.
 
@@ -16,4 +16,4 @@ I will be creating day wise branches and will me merging it with the master, so 
 Thanks,
 
 # Shiv Pratap Singh
-*https://www.linkedin.com/in/shiv-pratap-singh/
+*https://www.linkedin.com/in/shiv-pratap-singh/*
