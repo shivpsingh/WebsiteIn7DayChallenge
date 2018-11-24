@@ -16,6 +16,6 @@ I will be creating day wise branches and will me merging it with the master, so 
 Thanks,
 
 # Shiv Pratap Singh
-# Software Developer
-# Tech Mahindra Pvt. Ltd.
-# https://www.linkedin.com/in/shiv-pratap-singh/
+Software Developer
+Tech Mahindra Pvt. Ltd.
+https://www.linkedin.com/in/shiv-pratap-singh/
