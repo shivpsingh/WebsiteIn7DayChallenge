@@ -12,3 +12,15 @@ Color Pickers
 -------------
 
 cooler.co
+
+-----
+Icons
+-----
+
+fontawesome.io
+
+----------
+Animations
+----------
+
+https://github.com/daneden/animate.css
