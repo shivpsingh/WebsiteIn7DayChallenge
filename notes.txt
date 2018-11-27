@@ -24,3 +24,9 @@ Animations
 ----------
 
 https://github.com/daneden/animate.css
+
+-------
+Wow JS
+-------
+
+https://mynameismatthieu.com/WOW/docs.html
