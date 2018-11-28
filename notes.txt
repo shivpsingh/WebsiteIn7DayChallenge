@@ -1,9 +1,9 @@
-Day_0
------
+Resources
+---------
 
----------------
-Fonts Resources
----------------
+-----
+Fonts
+-----
 
 fonts.google.com
 
@@ -30,3 +30,43 @@ Wow JS
 -------
 
 https://mynameismatthieu.com/WOW/docs.html
+
+-------
+Images
+-------
+
+unsplash.com
+gratisography.com
+
+-----------
+Image Popup
+-----------
+
+http://dimsemenov.com/plugins/magnific-popup/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
