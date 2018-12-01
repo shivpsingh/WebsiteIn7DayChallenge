@@ -28,3 +28,15 @@ $(function () {
         loop: true
     });
 });
+
+// Clients Section
+// Team Section
+$(function () {
+    $("#clients-list").owlCarousel({
+        items: 4,
+        autoplay: true,
+        autoplayHoverPause: true,
+        smartSpeed: 700,
+        loop: true
+    });
+});
