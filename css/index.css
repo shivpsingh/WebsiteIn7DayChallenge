@@ -261,32 +261,55 @@ p {
 }
 
 
+/*-------------------------------------
+    Team CSS Section
+---------------------------------------*/
 
+.team-member {
+    margin: 0 15px 0 15px;
+}
 
+.team-member-info {
+    padding: 10px 0 30px 0;
+}
 
+h4.team-member-name {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding-top: 20px;
+}
 
+h4.team-member-desg {
+    color: #34c6d3;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 5px;
+}
 
+.social-list {
+    padding-left: 0;
+}
 
+.social-list li {
+    list-style: none;
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    margin-top: 10px;
+    margin-right: 6px;
+}
 
+.social-icon i {
+    font-size: 20px;
+}
 
+.icon-gray i {
+    color: #64707b;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.icon-gray:hover i {
+    color: #34c6d3;
+}

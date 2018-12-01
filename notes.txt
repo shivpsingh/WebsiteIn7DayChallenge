@@ -44,7 +44,11 @@ Image Popup
 
 http://dimsemenov.com/plugins/magnific-popup/
 
+------
+Slider
+------
 
+https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html
 
 
 
