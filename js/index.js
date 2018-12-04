@@ -30,7 +30,6 @@ $(function () {
 });
 
 // Clients Section
-// Team Section
 $(function () {
     $("#clients-list").owlCarousel({
         items: 4,
@@ -40,3 +39,18 @@ $(function () {
         loop: true
     });
 });
+
+// Navigation Section
+/*$(function () {
+    
+    $(window).scroll(function() {
+        
+        if($(this).scrollTop() < 50) {
+           $('nav').removeClass("techarts-dark");
+        } else {
+           $('nav').addClass("techarts-dark");
+        }
+        
+    });
+    
+});*/

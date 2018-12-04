@@ -327,3 +327,179 @@ h4.team-member-desg {
     margin-bottom: 20px;
     padding-bottom: 30px;
 }
+
+/*-------------------------------------
+    Contact CSS Section
+---------------------------------------*/
+
+.icon-white i {
+    color: #fff;
+}
+
+.icon-white:hover i {
+    color: #34c6d3;
+}
+
+footer {
+    background-color: #41464b;
+    padding-top: 30px;
+    border-top: 5px solid rgba(0, 0, 0, 0.1);
+    color: #fff;
+}
+
+footer h3 {
+    color: #fff;
+}
+
+#contact-left,
+#contact-right h3 {
+    color: #fff;
+    font-size: 27px;
+    font-weight: 700;
+}
+
+#contact-left p {
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+#contact-info {
+    margin-bottom: 30px;
+}
+
+#contact-right h3 {
+    margin-bottom: 15px;
+}
+
+form .form-control {
+    background: transparent;
+    border-radius: 0;
+    border-color: #fff;
+    font-size: 17px;
+    font-weight: 300;
+    padding: 8px 16px 8px 16px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+/*-------------------------------------
+    Footer CSS Section
+---------------------------------------*/
+
+#footer-bottom {
+    background-color: #rgba(0,0,0, 0.1);
+    padding: 30px 0 30px 0;
+    margin-top: 60px;
+}
+
+#footer-copyrights p {
+    margin: 0;
+    color: #fff;
+}
+
+#footer-menu {
+    float: left;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#footer-menu ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+#footer-menu ul li {
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+#footer-menu a {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 300;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+#footer-menu a:hover  {
+    color: #34c6d3;
+}
+
+/*-------------------------------------
+    Header CSS Section
+---------------------------------------*/
+
+.techarts-dark {
+    background: rgba(0,0,0,0.7);
+}
+
+#techarts-wrapper {
+    padding: 0 85px;
+}
+
+#techarts-logo-sym {
+    font-family: 'Baumans', cursive;
+    font-size: 30px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+#techarts-logo-sym:hover {
+    color: #34c6d3;
+    font-weight: 700;
+}
+
+#techarts-wrapper .nav-link {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 500;
+    color: #fff;
+}
+
+#techarts-wrapper .nav-link:hover {
+    color: #34c6d3;
+}
+
+#techarts-nav ul.navbar-nav > li.nav-item > a.active {
+    color: #34c6d3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
