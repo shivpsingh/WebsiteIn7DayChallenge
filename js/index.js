@@ -1,12 +1,13 @@
-// Services Section
+/*global $*/
+/*global event*/
 
+// Services Section
 $(function () {
     // Animate on Scroll
     new WOW().init();
 });
 
 // Work Section
-
 $(function () {
     // Animate on Scroll
     $('#work').magnificPopup({
@@ -54,3 +55,28 @@ $(function () {
     });
     
 });*/
+
+// Navigation Smooth Scroll
+$(function () {
+
+    $('a.smooth-scroll').click(function() {
+        event.preventDefault();
+
+        var section = $(this).attr('href');
+
+        $('html, body').animate({
+            scrollTop: $(section).offset().top - 64
+        }, 1250);
+
+    });
+
+});
+
+// Closing Mobile Menu 
+$(function () {
+
+    $('.navbar-collapse ul li a').on('click touch', function() {
+        $('.navbar-toggler').click();
+    });
+
+});
