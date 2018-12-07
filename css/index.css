@@ -477,3 +477,7 @@ form .form-control {
 #techarts-nav ul.navbar-nav > li.nav-item > a.active {
     color: #34c6d3;
 }
+
+.navbar-toggler {
+    margin-top: 15px;
+}
