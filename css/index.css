@@ -125,15 +125,18 @@ p {
 }
 
 #home-cover {
-    animation-delay: .1s;
+    -webkit-animation-delay: .1s;
+            animation-delay: .1s;
 }
 
 #home-heading {
-    animation-delay: .5s;
+    -webkit-animation-delay: .5s;
+            animation-delay: .5s;
 }
 
 #home-btn {
-    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+            animation-delay: 1s;
 }
 
 /*-------------------------------------
@@ -202,6 +205,7 @@ p {
 #about-content-box {
     float: left;
     height: 700px;
+    
 }
 
 #about-content-box-outer {
@@ -252,11 +256,18 @@ p {
 }
 
 .img-wrapper img {
+    -webkit-transition: -webkit-transform .5s ease;
+    transition: -webkit-transform .5s ease;
+    -o-transition: transform .5s ease;
     transition: transform .5s ease;
+    transition: transform .5s ease, -webkit-transform .5s ease;
 }
 
 .img-wrapper img:hover {
-    transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+        -ms-transform: scale(1.5);
+            transform: scale(1.5);
+    cursor: -webkit-zoom-in;
     cursor: zoom-in;
 }
 
@@ -387,7 +398,7 @@ form .form-control {
 ---------------------------------------*/
 
 #footer-bottom {
-    background-color: #rgba(0, 0, 0, 0.1);
+    background: rgba(0, 0, 0, 0.1);
     padding: 30px 0 30px 0;
     margin-top: 60px;
 }

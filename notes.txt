@@ -1,3 +1,10 @@
+** This Website is created for learning purpose, it may contain several resources which may be similar to some other website out on internet,
+   then this is just a coincidence as this website is created from searching from various sites, youtube videos and articles etc.
+   
+   Thanks,
+   Shiv
+**
+
 Resources
 ---------
 
@@ -50,27 +57,20 @@ Slider
 
 https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html
 
+----------------------
+Testing Responsiveness
+----------------------
 
+https://www.responsinator.com/
 
+------------------
+Image Compression
+------------------
 
+https://tinypng.com/
 
+--------------
+Auto Prefixer
+--------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+autoprefixer.github.io
