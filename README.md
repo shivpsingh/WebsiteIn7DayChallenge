@@ -1,4 +1,4 @@
-# ModernAndResponsiveWebsite
+# Website In 7 Day Challenge
 *Creating a modern and responsive website*
 
 This is git repository to create a website considering all the modern techniques and coding styles.
